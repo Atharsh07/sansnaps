@@ -41,7 +41,7 @@ export const Home = () => {
                     variants={itemVariants}
                     className="tex-gray-400 text-lg mb-8 max-w-lg mx-auto"
                 >
-                    I'm a professional photographer with extensive experience capturing vibrant moments
+                    I'm a freelance photographer with extensive experience capturing vibrant moments
                     at college and public events, known for creative angles, attention to detail, and
                     storytelling through every frame.
                 </motion.p>
