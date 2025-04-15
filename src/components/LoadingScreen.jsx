@@ -3,7 +3,7 @@ import { motion, AnimatePresence } from "framer-motion";
 
 export const LoadingScreen = ({ onComplete }) => {
     const [text, setText] = useState("");
-    const fullText = "San Sanps";
+    const fullText = "San Snaps";
 
     useEffect(() => {
         let index = 0;
