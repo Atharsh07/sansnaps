@@ -23,8 +23,8 @@ export const LoadingScreen = ({ onComplete }) => {
     }, [onComplete]);
 
     const getStyledText = () => {
-        const momentStart = fullText.indexOf("Sanps");
-        const momentEnd = momentStart + "Sanps".length;
+        const momentStart = fullText.indexOf("Snaps");
+        const momentEnd = momentStart + "Snaps".length;
 
         return (
             <>
