@@ -63,7 +63,7 @@ export const About = () => {
                         variants={itemVariants}
                         className="text-[#d1d5db] mb-6 text-center"
                     >
-                        I'm a passionate professional photographer capturing vibrant moments at college and public events, delivering memories with creativity and precision.
+                        I'm a passionate freelance photographer capturing vibrant moments at college and public events, delivering memories with creativity and precision.
                     </motion.p>
 
                     <div className="flex flex-col-reverse md:flex-row gap-6 items-center md:items-start justify-between">
